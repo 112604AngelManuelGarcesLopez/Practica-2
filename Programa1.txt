@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main() {
+    /* Soy Garces Lopez Angel Manuel
+    de AMUKE
+    */
+    printf("Hola mundo");
+    return 0;
+}
